@@ -84,7 +84,6 @@ class Jugador{
      * Escoge piedra, papel o tijera al azar
      */
     int exitos;      // número de partidas ganadas
-    int winTotal;
     public String opcionAlAzar()
     {
         String opcion="";
